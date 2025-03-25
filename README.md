@@ -29,3 +29,25 @@
 
 - sort_values()
 특정 열의 값을 기준으로 데이터를 정렬한다.
+
+## pizza_df
+### 피자 주문 정보 데이터를 담고 있는 csv이다.
+### 데이터프레임 전처리를 통해 insight를 추출한다.
+> 사용 함수 정리
+- groupby()[]
+()열을 기준으로 []열을 그룹화한다.
+
+- merge(how='', on='')
+다른 데이터프레임과 병합할 때 사용한다
+
+- rename(columns={'' : ''})
+해당 컬럼의 이름을 변경한다.
+
+- unique()
+특정 열의 고유한 값을 확인한다.
+
+- to_datetime()
+특정 열의 데이터타입을 datetime으로 변경한다.
+ 
+- sort_values(ascending=False)
+열을 기준으로 내림차순 정리한다.
