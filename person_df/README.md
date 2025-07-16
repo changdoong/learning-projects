@@ -25,7 +25,9 @@
 - 과적합 여부 확인: 학습 vs 검증 손실 비교
 
 ##  캐글 제출 결과
-- Public Leaderboard 순위: 1076등 / 2287명
+- Public Leaderboard 순위: 769등 / 2398명
+- <img width="1079" height="135" alt="image" src="https://github.com/user-attachments/assets/c7ffafc7-656d-43ee-a727-5856094a8e09" />
+
 - 제출 파일: `person1.csv`
 
 ##  배운 점 & 개선 방향
