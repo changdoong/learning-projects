@@ -19,6 +19,7 @@
 - LazyPredict로 모델 비교
 - 상위 모델 2개 선정 (perceptron, LGBM)
 - Optuna로 하이퍼파라미터 튜닝
+- H20 AUTOML 사용해 Optuna 사용 모델과 비교
 
 ##  성능 평가
 - 사용한 평가 지표: `log_loss`, `f1_score`
