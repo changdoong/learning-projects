@@ -33,6 +33,8 @@
 ##  캐글 제출 결과
 - Public Leaderboard 점수: 0.82917
 Private Leaderboard 점수: 0.86519
+<img width="927" height="67" alt="image" src="https://github.com/user-attachments/assets/8c0ab012-cf80-4bd6-90e6-d8e0a7a2b649" />
+
 
 - 제출 파일: `submission.csv`
 ---
